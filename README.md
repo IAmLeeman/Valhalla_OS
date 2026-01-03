@@ -1,0 +1,1 @@
+03/01/2026 - Formatted SD card to FAT32 for the bios and ext4 for the remaining harddrive space
