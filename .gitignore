@@ -1,3 +1,4 @@
 ### Ignore the ARM toolchain
 
 ./evb_rk3399
+u-boot/
